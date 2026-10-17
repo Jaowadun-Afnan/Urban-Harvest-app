@@ -1,0 +1,6 @@
+@UrbanHarvestApi_HostAddress = http://localhost:5195
+
+GET {{UrbanHarvestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
